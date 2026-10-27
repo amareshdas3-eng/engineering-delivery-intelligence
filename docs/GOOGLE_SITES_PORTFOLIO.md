@@ -59,7 +59,8 @@
 1. Open your Google Site in edit mode.
 2. Navigate to the **Live Demo** page.
 3. Select **Insert → Embed → By URL**.
-4. Paste the hosted application URL (e.g. from Google Cloud Run or Firebase Hosting).
+4. Paste the hosted application URL:
+   `https://amareshdas3-eng.github.io/engineering-delivery-intelligence/`
 5. Resize the embed container to full width (height: 850px).
 6. Below the embed frame, add the prominent fallback button:
    - `[Open Full Screen Application in New Window ↗]`

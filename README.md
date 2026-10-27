@@ -4,6 +4,9 @@
 
 Built by a Senior Electrical Engineering & Industrial Project Management Professional with **23+ years of industrial delivery experience**.
 
+- **Live Published Application:** [https://amareshdas3-eng.github.io/engineering-delivery-intelligence/](https://amareshdas3-eng.github.io/engineering-delivery-intelligence/)
+- **GitHub Repository:** [https://github.com/amareshdas3-eng/engineering-delivery-intelligence](https://github.com/amareshdas3-eng/engineering-delivery-intelligence)
+
 ---
 
 ## 🌟 Overview & Key Capabilities
